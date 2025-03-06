@@ -33,19 +33,26 @@ I'm a developer with experience in Flutter, TypeScript, and Python. I enjoy buil
 
 ## 🛠️ Technologies & Tools  
 ### 📱 Mobile Development  
-**Flutter & Dart**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="50" />          
 
 ### 🌐 Frontend  
-**TypeScript, HTML, CSS**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50"/>
 
 ### ⚙️ Backend  
-**Django (Python)**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="50" />          
 
 ### 🗄️ Databases  
-**MySQL, Firestore**  
+<div style="background-color: #f1f1f1; padding: 10px; display: inline-block; border-radius: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="50" width="50" />
+</div>
 
 ### 🔧 Other Tools  
-**Figma, Arduino**  
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="50"/>
+          
 ---
 ⭐ **The best things are yet to come*
