@@ -64,4 +64,10 @@ I'm a developer with experience in Flutter, TypeScript, and Python. I enjoy buil
 </p>
 
 ---
+## 🚀 What’s Next?  
+🔭 **Currently working on:** _A mobile app for the Universidad Nacional_  
+📚 **Learning:** _Software Engineering Techniques and Methods_  
+💡 **Open to:** _Collaboration, networking, and new opportunities_
+
+---
 ⭐ *The best things are yet to come*
