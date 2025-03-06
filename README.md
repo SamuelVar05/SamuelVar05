@@ -55,4 +55,4 @@ I'm a developer with experience in Flutter, TypeScript, and Python. I enjoy buil
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="50"/>
           
 ---
-⭐ **The best things are yet to come*
+⭐ *The best things are yet to come*
