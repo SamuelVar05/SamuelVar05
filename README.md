@@ -25,48 +25,61 @@
 ---
 
 ## About Me
-I'm a developer with experience in Flutter, TypeScript, and Python. I enjoy building scalable applications while following best practices and clean architecture principles. Currently, I'm developing a mobile app to promote products within the Universidad Nacional.  
 
-📚 Beyond coding, I have a strong interest in astrophysics and football. In my free time, I enjoy crocheting.
+I'm a software developer with experience in mobile development, web
+applications, and backend APIs. I enjoy designing clean, maintainable architectures and working with modern technologies that allow applications to scale efficiently.
+I've worked on mobile apps, microservices, real‑time systems, and
+cloud‑based deployments. My focus is always on writing clean code,
+learning continuously, and delivering meaningful solutions. 
 
 ---
 
-## 🛠️ Technologies & Tools  
-### 📱 Mobile Development  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="50"/>
-</p>
+## 🛠️ Technologies & Tools
 
-### 🌐 Frontend  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50"/>
-</p>
+### 📱 Mobile Development
 
-### ⚙️ Backend  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="50"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="50"/>
-</p>
+-   **Flutter & Dart** -- UI, state management, animations, clean
+    architecture, integrations with REST APIs.
+-   **Firebase** -- Authentication, Firestore, cloud features for mobile
+    apps.
 
-### 🗄️ Databases  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="50"/>          
-</p>
+### 🌐 Web & Frontend
 
-### 🔧 Other Tools  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="50"/>
-</p>
+-   **TypeScript** -- Typed JS development for scalable projects.
+-   **React** -- Interactive UI development.
+-   **HTML & CSS** -- Semantic structure and responsive layouts.
 
+### ⚙️ Backend Development
+
+-   **Python** -- API development and automation.
+-   **Flask** -- Lightweight web services, modular architectures.
+-   **Django** -- Full‑stack web apps with authentication and ORM.
+
+### ☁️ Cloud & DevOps
+
+-   **Docker** -- Containerization and environment isolation.
+-   **Kubernetes (GKE)** -- Deployment, scaling, and orchestration.
+-   **Google Cloud Platform** -- Compute, networking, and managed
+    services.
+-   **RabbitMQ** -- Messaging and asynchronous communication for
+    microservices.
+
+### 🗄️ Databases
+
+-   **MySQL** -- Relational data modeling.
+-   **MongoDB** -- Document‑based storage.
+-   **Firebase Firestore** -- Realtime synced data.
+
+### 🔧 Additional Tools
+
+-   **Arduino & C++** -- Hardware interaction and Bluetooth
+    communication.
+-   **Git & GitHub** -- Version control and repository management.
+-   **Figma** -- UI/UX design collaboration.
 ---
 ## 🚀 What’s Next?  
-🔭 **Currently working on:** _A mobile app for the Universidad Nacional_  
-📚 **Learning:** _Software Engineering Techniques and Methods_  
+🔭 **Currently working on:** _A microservices application for jogging in Bogotá_  
+📚 **Learning:** _Architectural Design and Good Practices for scalable and secure systems_  
 💡 **Open to:** _Collaboration, networking, and new opportunities_
 
 ---
