@@ -10,16 +10,16 @@
 
 ## Contact me
 <p align="left">
-  <a href="https://linkedin.com/in/sjvc0595" target="blank">
+  <a href="https://www.linkedin.com/in/samuelvar05/" target="blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
-   LinkedIn
+  LinkedIn
 </p>
 <p align="left">
   
 
-  <a href="samvargasca@unal.edu.co" target="blank">
+  <a href="sjvc0595@gmail.com" target="blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
-   samvargasca@unal.edu.co
+   sjvc0595@gmail.com
 </p>
 
 ---
