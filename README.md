@@ -31,6 +31,7 @@ applications, and backend APIs. I enjoy designing clean, maintainable architectu
 I've worked on mobile apps, microservices, real‑time systems, and
 cloud‑based deployments. My focus is always on writing clean code,
 learning continuously, and delivering meaningful solutions. 
+Currently, I'm working as an Intern at Bancolombia, supporting the Personas, PYMES y Empresas Audit area. My work involves implementing, monitoring, maintaining, and optimizing automated tests for continuous auditing, as well as data mining and processing. I also work on the development of reports and analytical models that support auditing processes and help generate value through data-driven insights.
 
 ---
 
@@ -70,6 +71,12 @@ learning continuously, and delivering meaningful solutions.
 -   **MongoDB** -- Document‑based storage.
 -   **Firebase Firestore** -- Realtime synced data.
 
+### 📊 Data & Analytics
+- **Data Mining & Processing** -- Extraction, transformation, analysis, and processing of data.
+- **Automated Testing** -- Implementation, monitoring, maintenance, and optimization of automated tests.
+- **Analytical Models** -- Development of predictive models to support data-driven decision making.
+- **Data Visualization & Reporting** -- Development of reports and dashboards for monitoring and analysis.
+
 ### 🔧 Additional Tools
 
 -   **Arduino & C++** -- Hardware interaction and Bluetooth
@@ -77,6 +84,22 @@ learning continuously, and delivering meaningful solutions.
 -   **Git & GitHub** -- Version control and repository management.
 -   **Figma** -- UI/UX design collaboration.
 ---
+## **Current Experience**
+ - Bancolombia — Practicante U
+ - July 2026 – January 2027
+
+Working in the Audit of People, SMEs and Businesses area, supporting continuous auditing through software development, automation, and data analytics.
+
+- Implementation, monitoring, maintenance, and optimization of automated tests.
+- Data mining and processing to support audit processes.
+- Monthly maintenance and reporting of Continuous Audit tests.
+- Design and development of reports for the Automated Audit Control Dashboard.
+- Development of analytical models for predictive applications.
+- Support for projects and technical needs within the Vice Presidency.
+
+---
+
+
 ## 🚀 What’s Next?  
 🔭 **Currently working on:** _A microservices application for jogging in Bogotá_  
 📚 **Learning:** _Architectural Design and Good Practices for scalable and secure systems_  
